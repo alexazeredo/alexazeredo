@@ -1,2 +1,2 @@
 /hello
-c:\learningprocess
+c:\
